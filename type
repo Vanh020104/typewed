@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .city{
+                background-color: yellow;
+                color:black;
+                padding:40px;
+                text-align: center;
+                font-size: large;
+            }
+            #myHead{
+                background-color: red;
+                color:black;
+                text-align: left;
+
+            }
+        </style>
+    </head>
+    <body>
+        <h2 class="city">What you name?
+        </h2>
+        <p id="myHead">My name is Vanh</p>
+    </body>
+</html>
